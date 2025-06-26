@@ -1659,7 +1659,7 @@ function App() {
             className='text-4xl md:text-5xl font-extrabold text-gray-900 mb-2.5 drop-shadow-lg leading-tight'
             style={{ fontFamily: "Inter, sans-serif" }}
           >
-            SISTEMA COLABORATIVO DE JEREMIAS Y DIL
+            SISTEMA COLABORATIVO DE NÚMEROS TELEFÓNICOS
           </h1>
           {/* Reduced top/right */}
           <div className='absolute top-6 right-6 text-sm text-gray-600 font-mono bg-indigo-100 px-4 py-2 rounded-full shadow-md border border-indigo-200'>
